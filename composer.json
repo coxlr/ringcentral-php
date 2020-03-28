@@ -14,10 +14,10 @@
     "ext-curl": "*",
     "ext-json": "*",
     "php": ">=7.1",
-    "guzzlehttp/psr7": "^1.4.2",
+    "guzzlehttp/psr7": "^1.6.1",
     "pubnub/pubnub": "^4.0.0",
     "symfony/event-dispatcher": "^2|^3|^4|^5",
-    "guzzlehttp/guzzle": "^6.3.3"
+    "guzzlehttp/guzzle": "^6.5.2"
   },
   "suggest": {
     "ext-openssl": "to decrypt PubNub messages"
